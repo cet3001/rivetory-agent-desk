@@ -9,15 +9,15 @@
 ## Pages
 
 - [Home](https://rivetory.com/): the promise, how it works, a sample owner summary, pricing preview
-- [How it works](https://rivetory.com/how-it-works.html): the call flow, what a person hears, what an AI assistant gets, what the owner receives
-- [For restoration companies](https://rivetory.com/restoration.html): night emergencies, intake questions, on-call escalation
-- [AI callers](https://rivetory.com/ai-callers.html): who is calling, what goes wrong today, how the desk handles it
-- [Pricing](https://rivetory.com/pricing.html): free 14-day pilot, Core $297 a month, Pro $497 a month, the guarantee
-- [Start a pilot](https://rivetory.com/start-a-pilot.html): book a 30-minute setup call
-- [Demo company facts](https://rivetory.com/demo.html): a sample public facts page for a fictional restoration company
-- [About](https://rivetory.com/about.html)
-- [Privacy](https://rivetory.com/privacy.html)
-- [Terms](https://rivetory.com/terms.html)
+- [How it works](https://rivetory.com/how-it-works): the call flow, what a person hears, what an AI assistant gets, what the owner receives
+- [For restoration companies](https://rivetory.com/restoration): night emergencies, intake questions, on-call escalation
+- [AI callers](https://rivetory.com/ai-callers): who is calling, what goes wrong today, how the desk handles it
+- [Pricing](https://rivetory.com/pricing): free 14-day pilot, Core $297 a month, Pro $497 a month, the guarantee
+- [Start a pilot](https://rivetory.com/start-a-pilot): book a 30-minute setup call
+- [Demo company facts](https://rivetory.com/demo): a sample public facts page for a fictional restoration company
+- [About](https://rivetory.com/about)
+- [Privacy](https://rivetory.com/privacy)
+- [Terms](https://rivetory.com/terms)
 
 ## Offer
 
