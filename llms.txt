@@ -1,28 +1,33 @@
-# Rivetory Agent Desk
+# Rivetory
 
-> Rivetory is an after-hours agent desk for water and fire restoration companies. It answers missed calls, books the job and texts the owner. Never lose a job to a missed call.
-
-- Demo line: (208) 510-0776
-- Contact: services@rivetory.com
-- Address: 6299 Eagle Road #1078, Meridian, ID 83713
+> Rivetory Agent Desk answers every call for independent water and fire restoration companies, so no job is ever lost to a missed call. A live desk takes the call, books the job, and hands it to your team. Based in Meridian, Idaho. Free 14-day pilot, then Core $297 a month or Pro $497 a month.
 
 ## Pages
 
-- [Home](https://rivetory.com/): the promise, how it works, a sample owner summary, pricing preview
-- [How it works](https://rivetory.com/how-it-works): the call flow, what a person hears, what an AI assistant gets, what the owner receives
-- [For restoration companies](https://rivetory.com/restoration): night emergencies, intake questions, on-call escalation
-- [AI callers](https://rivetory.com/ai-callers): who is calling, what goes wrong today, how the desk handles it
-- [Pricing](https://rivetory.com/pricing): free 14-day pilot, Core $297 a month, Pro $497 a month, the guarantee
-- [Start a pilot](https://rivetory.com/start-a-pilot): book a 30-minute setup call
-- [Demo company facts](https://rivetory.com/demo): a sample public facts page for a fictional restoration company
+- [Home](https://rivetory.com/)
+- [How it works](https://rivetory.com/how-it-works)
+- [For restoration companies](https://rivetory.com/restoration)
+- [AI callers](https://rivetory.com/ai-callers)
+- [Pricing](https://rivetory.com/pricing)
+- [Start a pilot](https://rivetory.com/start-a-pilot)
+- [Demo company facts](https://rivetory.com/demo)
+- [Agent Desk](https://rivetory.com/agent-desk)
 - [About](https://rivetory.com/about)
 - [Privacy](https://rivetory.com/privacy)
 - [Terms](https://rivetory.com/terms)
 
-## Offer
+## Answers
 
-Free 14-day pilot, set up for the customer in 30 minutes. Then Core $297 per month or Pro $497 per month, month to month, cancel any time. Guarantee: if the desk does not capture at least one job worth more than the monthly fee in the first 30 paid days, the next month is free.
+Plain answers to the questions restoration owners ask.
 
-## The desk
-
-The desk answers after-hours and overflow calls forwarded from a company's main line. It recognizes two kinds of caller: a person, and an AI assistant calling on behalf of a customer. It takes the job details, books the visit or alerts the on-call tech for an emergency, and sends the owner a summary by text and email within a minute. Every call is recorded and the desk says it is an automated assistant at the start of every call.
+- [Answers](https://rivetory.com/answers): the hub, with every question and its short verdict.
+- [How much does a restoration answering service cost?](https://rivetory.com/answering-service-cost)
+- [What happens when a customer calls my restoration company after hours?](https://rivetory.com/after-hours-calls)
+- [How does the desk handle calls from AI assistants?](https://rivetory.com/ai-assistant-callers)
+- [What does the free 14-day pilot include?](https://rivetory.com/free-14-day-pilot)
+- [What questions does the desk ask a caller?](https://rivetory.com/intake-questions)
+- [What happens when a caller reports active water or fire?](https://rivetory.com/active-water-or-fire)
+- [How fast do I hear about a call?](https://rivetory.com/hear-about-a-call)
+- [How does the Rivetory guarantee work?](https://rivetory.com/guarantee)
+- [What is the difference between Core and Pro?](https://rivetory.com/core-vs-pro)
+- [Can I cancel any time?](https://rivetory.com/cancel-any-time)
